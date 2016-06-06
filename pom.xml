@@ -211,7 +211,7 @@
 			</flowInitContext>
 			<allowSnapshots>true</allowSnapshots>
 			<defaultOriginUrl>scm:git:git@github.com:quikkian-ua-devops/kfs.git</defaultOriginUrl>
-
+			<enableSshAgent>true</enableSshAgent>
 		</configuration>
 	</plugin>
       <plugin>
