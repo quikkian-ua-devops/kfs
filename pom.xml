@@ -39,7 +39,7 @@
   </parent>
   <groupId>org.kuali.kfs</groupId>
   <artifactId>kfs</artifactId>
-  <version>14</version>
+  <version>ua-release16</version>
   <name>Kuali Financial System</name>
   <description>Kuali Financials</description>
   <inceptionYear>2004</inceptionYear>
@@ -206,8 +206,6 @@
 			<noDeploy>true</noDeploy>
 			<flowInitContext>
 				<developBranchName>ua-development</developBranchName>
-				<releaseBranchPrefix>ua-release</releaseBranchPrefix>
-				<versionTagPrefix>ua-release</versionTagPrefix>
 			</flowInitContext>
 			<allowSnapshots>true</allowSnapshots>
 			<defaultOriginUrl>scm:git:git@github.com:quikkian-ua-devops/kfs.git</defaultOriginUrl>
